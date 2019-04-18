@@ -1,7 +1,7 @@
 appdirs==1.4.3
 certifi==2017.11.5
 future==0.16.0
-packaging==16.8
+packaging==19.0
 pymongo==3.7.2
 pyparsing==2.1.10
 python-bitcoinrpc==1.0
