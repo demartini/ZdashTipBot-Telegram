@@ -6,6 +6,6 @@ pymongo==3.4.0
 pyparsing==2.1.10
 python-bitcoinrpc==1.0
 python-telegram-bot==5.3.0
-requests>=2.20.0
+requests==2.21.0
 six==1.10.0
-urllib3>=1.23
+urllib3==1.24.2
