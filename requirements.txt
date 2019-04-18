@@ -1,5 +1,5 @@
 appdirs==1.4.3
-certifi==2017.1.23
+certifi==2017.11.5
 future==0.16.0
 packaging==16.8
 pymongo==3.4.0
