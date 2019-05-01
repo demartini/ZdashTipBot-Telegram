@@ -2,7 +2,7 @@ appdirs==1.4.3
 certifi==2019.3.9
 future==0.17.1
 packaging==19.0
-pymongo==3.7.2
+pymongo==3.8.0
 pyparsing==2.4.0
 python-bitcoinrpc==1.0
 python-telegram-bot==11.1.0
