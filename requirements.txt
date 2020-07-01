@@ -1,4 +1,4 @@
-appdirs==1.4.3
+appdirs==1.4.4
 certifi==2019.3.9
 future==0.17.1
 packaging==19.0
