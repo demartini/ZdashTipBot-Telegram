@@ -1,14 +1,14 @@
 {
-	"token": "telegramtoken",
-	"rpc": {
-		"host": "127.0.0.1",
-		"port": 6969,
-		"user": "user",
-		"password": "password"
-	},
-	"mongo": {
-		"host": "localhost",
-		"port": 27017,
-		"db": "hushtipbot"
-	}
+  "token": "telegramtoken",
+  "rpc": {
+    "host": "127.0.0.1",
+    "port": 6969,
+    "user": "user",
+    "password": "password"
+  },
+  "mongo": {
+    "host": "localhost",
+    "port": 27017,
+    "db": "hushtipbot"
+  }
 }
