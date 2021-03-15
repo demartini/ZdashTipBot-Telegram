@@ -5,7 +5,7 @@ packaging==20.8
 pymongo==3.11.2
 pyparsing==2.4.7
 python-bitcoinrpc==1.0
-python-telegram-bot==13.1
+python-telegram-bot==13.4.1
 requests==2.25.1
 six==1.15.0
 urllib3==1.26.2
